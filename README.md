@@ -9,3 +9,7 @@ Part 2: Text Summarization - Involves the use of Spacy for processing original t
 Part 3: Text to Speech Conversion – Involves the use of Textblob library for detecting the language of the summarized text, the Translate library is used to translate the detected language into English and to any language according to users choice. The part 3 also contains Google Text To Speech for conversion of the translated summary into speech and the output is provided in the audio file.
 
 Result: The audio file generated as output can be any of the following languages as preferred by the user English, French, German, Chinese, Arabic, Spanish, Russian, Hindi, Japanese, Korean.
+
+
+**
+Group Project made by : Shivangi Aggarwal and Aditya Rayer. **
