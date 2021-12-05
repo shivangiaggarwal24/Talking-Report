@@ -1,4 +1,4 @@
-#Talking-Report SAP Semicolon Hackathon 5.0
+##Talking-Report SAP Semicolon Hackathon 5.0
 
 We will be using Pytesseract, GTTS, Translate, Textblob, Computer Vision for the creation of the program. The division of the program is done in the following three parts:
 
