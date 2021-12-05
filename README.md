@@ -1,5 +1,4 @@
 Talking-Report SAP Semicolon Hackathon 5.0
-
 We will be using Pytesseract, GTTS, Translate, Textblob, Computer Vision for the creation of the program. The division of the program is done in the following three parts:
 
 Part 1: Text Recognition - Involves the use of Pytesseract and Computer Vision to detect text in any language from an image.
@@ -10,6 +9,4 @@ Part 3: Text to Speech Conversion – Involves the use of Textblob library for d
 
 Result: The audio file generated as output can be any of the following languages as preferred by the user English, French, German, Chinese, Arabic, Spanish, Russian, Hindi, Japanese, Korean.
 
-
-**
-Group Project made by : Shivangi Aggarwal and Aditya Rayer. **
+Group Project Made By: Aditya Rayer & Shivangi Aggarwal
